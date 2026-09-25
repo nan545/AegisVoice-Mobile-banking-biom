@@ -1,0 +1,6 @@
+{
+  "name": "AegisVoice Mobile Banking Biometric Shield",
+  "description": "Voice-based authentication system with acoustic ML spoof detection, real-time noise cancellation, and multi-factor verification for secure mobile banking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
